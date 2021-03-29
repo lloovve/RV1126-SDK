@@ -1,0 +1,9 @@
+.vscode/
+IMAGE/
+br.log
+rockdev/oem.img
+rockdev/parameter.txt
+rockdev/rootfs.ext4
+rockdev/rootfs.img
+rockdev/update.img
+rockdev/userdata.img

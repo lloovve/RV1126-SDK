@@ -1,0 +1,24 @@
+[submodule "app"]
+	path = app
+	url = https://e.coding.net/sipeed_ai/rv1126_sdk/app.git
+[submodule "kernel"]
+	path = kernel
+	url = https://e.coding.net/sipeed_ai/rv1126_sdk/kernel.git
+[submodule "device"]
+	path = device
+	url = https://e.coding.net/sipeed_ai/rv1126_sdk/device.git
+[submodule "docs"]
+	path = docs
+	url = https://e.coding.net/sipeed_ai/rv1126_sdk/docs.git
+[submodule "prebuilts"]
+	path = prebuilts
+	url = https://e.coding.net/sipeed_ai/rv1126_sdk/prebuilts.git
+[submodule "u-boot"]
+	path = u-boot
+	url = https://e.coding.net/sipeed_ai/rv1126_sdk/u-boot.git
+[submodule "buildroot"]
+	path = buildroot
+	url = https://e.coding.net/sipeed_ai/rv1126_sdk/buildroot.git
+[submodule "external"]
+	path = external
+	url = https://e.coding.net/sipeed_ai/rv1126_sdk/external.git
